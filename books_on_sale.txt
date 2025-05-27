@@ -1,0 +1,10 @@
+                title                 | price | quantity_in_stock 
+--------------------------------------+-------+-------------------
+ The Hitchhiker's Guide to the Galaxy |  8.09 |               560
+ The Little Prince                    |  6.29 |              1020
+ The Tale of Peter Rabbit             |  5.39 |              1000
+ Emma                                 |  4.70 |               390
+ Nineteen Eighty-Four: A Novel        |  7.19 |               420
+ The War of the Worlds                |  2.25 |                17
+(6 rows)
+
