@@ -1,0 +1,1 @@
+DELETE FROM books WHERE quantity_in_stock = 0;
